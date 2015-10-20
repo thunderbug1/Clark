@@ -22,7 +22,7 @@ work-protocol
 
 		possible option: firmata firmware 
 
-https://github.com/firmata/arduino
+			[https://github.com/firmata/arduino]
 			It is a standardised general purpose firmware used to access low level functions of the arduino from the pc. 
 			It can be extended by custom commands what might be used to add robot specific functions.
 			Advantage: It comes with a ready made command parser and protocol structure.
