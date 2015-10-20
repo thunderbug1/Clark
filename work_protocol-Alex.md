@@ -14,7 +14,7 @@ work-protocol
 
 		considered option: JsonRPC 
 
-			https://github.com/cloud-rocket/arduino-json-rpc/blob/master/JsonRPCServer.h
+			JsonRPCServer(https://github.com/cloud-rocket/arduino-json-rpc/blob/master/JsonRPCServer.h)
 			Allows remote call of procedures on the arduino by sending the command as a JSON string.
 			
 			conclusion: JSON adds too much unnecessary overhead to the communication.
