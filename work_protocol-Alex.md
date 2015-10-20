@@ -31,7 +31,11 @@ work-protocol
 				   evaluate complexity of custom function registration
 			
 [firmata firmware](https://github.com/firmata/arduino)
+
 [list of libraries](http://www.firmata.org/wiki/Download)
+
 [example of adding functionality to the firmware](http://www.instructables.com/id/Going-Beyond-StandardFirmata-Adding-New-Device-Sup/step5/Adding-STEPPERDATA-Subcommands-to-Both-the-Client-/)
+
+
 			
 			
