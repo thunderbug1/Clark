@@ -38,7 +38,7 @@ work-protocol
 
 13:00-16:00 B434 27/10/2015 -- 3h
 			
-	Diskussed the parts and the generall architecure of the project. 
+	Discussed the parts and the generall architecure of the project. 
 	Started to work on the feasability study and divided the workload.
 	PC side code is done by me. Arduino side code is done by Liu.
 	
