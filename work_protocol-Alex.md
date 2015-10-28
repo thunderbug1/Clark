@@ -1,11 +1,11 @@
 work-protocol
 --------------------------------------------------------------------------------
 
-15:00 18/10/2015 -- 2h
+13:00-15:00 HOME 18/10/2015 -- 2h
 
 	-Familiarisation with the used platform and reading the documentation
 
-17:57 20/10/2015 -- 4h
+13:57-17:57 HOME 20/10/2015 -- 4h
 
 	-Setting up the github project.
 
@@ -36,6 +36,10 @@ work-protocol
 
 [example of adding functionality to the firmata firmware](http://www.instructables.com/id/Going-Beyond-StandardFirmata-Adding-New-Device-Sup/step5/Adding-STEPPERDATA-Subcommands-to-Both-the-Client-/)
 
-
+13:00-16:00 B434 27/10/2015 -- 3h
 			
-			
+	Diskussed the parts and the generall architecure of the project. 
+	Started to work on the feasability study and divided the workload.
+	PC side code is done by me. Arduino side code is done by Liu.
+	
+	
