@@ -1,11 +1,11 @@
 work-protocol
 --------------------------------------------------------------------------------
 
-13:00-15:00 HOME 18/10/2015 -- 2h
+18/10/2015 13:00-15:00 HOME -- 2h
 
 	-Familiarisation with the used platform and reading the documentation
 
-13:57-17:57 HOME 20/10/2015 -- 4h
+20/10/2015 13:57-17:57 HOME -- 4h
 
 	-Setting up the github project.
 
@@ -37,13 +37,13 @@ work-protocol
 
 [example of adding functionality to the firmata firmware](http://www.instructables.com/id/Going-Beyond-StandardFirmata-Adding-New-Device-Sup/step5/Adding-STEPPERDATA-Subcommands-to-Both-the-Client-/)
 
-13:00-16:00 B434 27/10/2015 -- 3h
+27/10/2015 13:00-16:00 B434  -- 3h
 			
 	Discussed the parts and the generall architecure of the project. 
 	Started to work on the feasability study and divided the workload.
 	PC side code is done by me. Arduino side code is done by Liu.
 
-13:00-17:00 B434 28/10/2015 -- 4h	
+28/10/2015 13:00-17:00 B434 -- 4h	
 
 	Reading about the Leap motion sensor and discussing about how the interface
 	could work. Research of how to implement the inverse kinematics which is neccessary
@@ -60,7 +60,7 @@ work-protocol
 	
 	conclusion: orcos seems the most promising and simplest to use
 	
-15:00-16:30 HOME 30/10/2015 -- 1,5h
+30/10/2015 15:00-16:30 HOME -- 1,5h
 
 	Further reading about orcos and evaluation if the use of it is feasible.
 	Conclusion: The examples do not seem that complicated. It might be possible.
