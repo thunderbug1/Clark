@@ -9,7 +9,6 @@ work-protocol
 
 	-Setting up the github project.
 
-
 	-Evaluating different serial protocols for the pc-adruino communication:
 
 		considered option: JsonRPC 
@@ -29,6 +28,8 @@ work-protocol
 			
 			TO DO: evaluate C++ support of the firmata protocol on the Host pc.
 				   evaluate complexity of custom function registration
+				   
+			EDIT: Writing a custom interpreter is probably the simplest and fastest solution.
 			
 [firmata firmware](https://github.com/firmata/arduino)
 
@@ -41,5 +42,32 @@ work-protocol
 	Discussed the parts and the generall architecure of the project. 
 	Started to work on the feasability study and divided the workload.
 	PC side code is done by me. Arduino side code is done by Liu.
+
+13:00-17:00 B434 28/10/2015 -- 4h	
+
+	Reading about the Leap motion sensor and discussing about how the interface
+	could work. Research of how to implement the inverse kinematics which is neccessary
+	if the interface gives the target posiion for the robot arm.
+	Considered different options:
 	
+	writing a custom solver
+	
+[OpenRave library](http://openrave.org/docs/latest_stable/)
+	
+[robotics library](http://www.roboticslibrary.org/api)
+	
+[concept for custom solution](http://freespace.virgin.net/hugo.elias/models/m_ik2.htm)
+	
+[orcos](http://www.orocos.org/)
+	
+	conclusion: orcos seems the most promising and simplest to use
+	
+15:00-16:30 HOME 30/10/2015 -- 1,5h
+
+	Further reading about orcos and evaluation if the use of it is feasible.
+	Conclusion: The examples do not seem that complicated. It might be possible.
+	Possible problems: it uses Boost (compiling projects with it is always complicated)
+	
+	TO DO: check if it could be integrated into chris´ software.
+			   
 	
