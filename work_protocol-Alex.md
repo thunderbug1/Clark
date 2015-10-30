@@ -50,8 +50,6 @@ work-protocol
 	if the interface gives the target posiion for the robot arm.
 	Considered different options:
 	
-	writing a custom solver
-	
 [OpenRave library](http://openrave.org/docs/latest_stable/)
 	
 [robotics library](http://www.roboticslibrary.org/api)
