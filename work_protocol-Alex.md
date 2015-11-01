@@ -68,4 +68,9 @@ work-protocol
 	
 	TO DO: check if it could be integrated into chris´ software.
 			   
+
+01/11/2015 11:00-13:30 HOME -- 2,5h
+
+	Finished the feasibility study.
+	
 	
