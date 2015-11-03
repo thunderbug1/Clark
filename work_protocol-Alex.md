@@ -71,6 +71,21 @@ work-protocol
 
 01/11/2015 11:00-13:30 HOME -- 2,5h
 
+	Further work on the feasibility study.
+	
+02/11/2015 18:00-19:30 HOME -- 1,5h
+
 	Finished the feasibility study.
+
+03/11/2015 14:30-18:30 B434 -- 4h
+
+	Made a list of required parts for the battery circuit.
+	
+	Tested the Leap motion sensor. -> conclusion: it is too inaccurate to use it for the arm-control.
+	We will use the Falcon 3d mouse to do that.
+	
+	Found out that the Romeo controller can not handle the motor contorl and the robot arm control at the
+	same time as the controller only has 6 pwm channels and we would need 6+2 channels.
+	The new concept is to use a dedicated servo controller board in addition to the romeo controller.
 	
 	
