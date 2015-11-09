@@ -88,4 +88,13 @@ work-protocol
 	same time as the controller only has 6 pwm channels and we would need 6+2 channels.
 	The new concept is to use a dedicated servo controller board in addition to the romeo controller.
 	
+06/11/2015 12:20-18:00 B434 -- 5,5h
+
+	Compiling the KDL-library and its´ dependencies.
+	
+09/11/2015 11:30-12:30 HOME -- 1h
+
+	Set up the project configuration in Visual Studio and successfully built an example project.
+	
+	
 	
