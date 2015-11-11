@@ -96,5 +96,9 @@ work-protocol
 
 	Set up the project configuration in Visual Studio and successfully built an example project.
 	
+11/11/2015 15:00-19:00 B434 -- 4h
+
+	Studying the documentation of the KDL-library and working on the DH-parameters.
+	Reading datasheets and thinking with Amy about how the Encoders can be connected to the controller.
 	
 	
