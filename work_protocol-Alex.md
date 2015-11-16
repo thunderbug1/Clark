@@ -47,7 +47,7 @@ work-protocol
 
 	Reading about the Leap motion sensor and discussing about how the interface
 	could work. Research of how to implement the inverse kinematics which is neccessary
-	if the interface gives the target posiion for the robot arm.
+	if the interface gives the target position for the robot arm.
 	Considered different options:
 	
 [OpenRave library](http://openrave.org/docs/latest_stable/)
