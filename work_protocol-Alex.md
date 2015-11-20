@@ -101,4 +101,6 @@ work-protocol
 	Studying the documentation of the KDL-library and working on the DH-parameters.
 	Reading datasheets and thinking with Amy about how the Encoders can be connected to the controller.
 	
-	
+20/11/2015 13:00-14:00 B434 -- 1h
+
+	Further work on the inverse kinematics solver.
