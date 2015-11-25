@@ -104,3 +104,10 @@ work-protocol
 20/11/2015 13:00-14:00 B434 -- 1h
 
 	Further work on the inverse kinematics solver.
+	
+25//11//2015 11:40-15:40 B434 -- 4h
+
+	The inverse kinematics solver is working now and also tested for some simple cases.
+	Reading the documentation of the Maestro servo controller.
+	
+
