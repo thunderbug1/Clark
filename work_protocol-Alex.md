@@ -105,9 +105,13 @@ work-protocol
 
 	Further work on the inverse kinematics solver.
 	
-25//11//2015 11:40-15:40 B434 -- 4h
+25/11/2015 11:40-15:40 B434 -- 4h
 
 	The inverse kinematics solver is working now and also tested for some simple cases.
 	Reading the documentation of the Maestro servo controller.
 	
+27/11/2015 14:00-20:00 B434 -- 6h
 
+	First tests with the falcon input device and incorporating the necessary libraries to use it.
+	Helping Amy with the code for the encoders.
+	
