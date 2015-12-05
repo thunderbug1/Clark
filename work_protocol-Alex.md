@@ -115,3 +115,16 @@ work-protocol
 	First tests with the falcon input device and incorporating the necessary libraries to use it.
 	Helping Amy with the code for the encoders.
 	
+2/12/2015 12:00-14:00 B434 -- 2h
+	
+	Implementation of spring effect to center the falcon mouse in the middle of its´ coordinate system.
+	Implementation of haptic feedback when the IK-solver cannot find a solution anymore.
+	
+5/12/2015 11:30-15:00 HOME -- 3.5h
+	
+	Reading Chirs´ code and planing of how to integrate the new code.
+	Writing a list of necessary robot functions according to the existing code and serial protocol.
+	Problem: the number of sonar sensor is hardcoded to 16. The new robot has less sensors and a 
+	change of the number would require rewriting the haptic interface code.
+	Planed solution: the new robot should, to be compatible, return standard values for all non existing 
+	sensors so that the old code can be used.
