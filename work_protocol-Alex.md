@@ -128,3 +128,10 @@ work-protocol
 	change of the number would require rewriting the haptic interface code.
 	Planed solution: the new robot should, to be compatible, return standard values for all non existing 
 	sensors so that the old code can be used.
+
+9/12/2015 10:00-14:00 HOME -- 4h
+
+	Integrating the Usc references which are necessary for the Maestro servo controller into the server side code.
+	Preparing the code to be merged into the existing project by encapsulating the functionality int a single class.
+	Implementing the wrist spin functionality in the interface.
+	
