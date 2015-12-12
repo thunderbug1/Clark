@@ -135,3 +135,9 @@ work-protocol
 	Preparing the code to be merged into the existing project by encapsulating the functionality int a single class.
 	Implementing the wrist spin functionality in the interface.
 	
+11/12/2015 14:00-20:00 HOME and B434 -- 6h
+
+	Resolved a problem with crashes when the falcon is initialised in a method instead of the main program.
+	Added code to open/close the gripper and to rotate the wrist.
+	Tests with different solvers for the inverse kinematics.
+	
