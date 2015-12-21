@@ -141,3 +141,13 @@ work-protocol
 	Added code to open/close the gripper and to rotate the wrist.
 	Tests with different solvers for the inverse kinematics.
 	
+16/12/2015 13:00-16:00 B434 -- 3h
+
+	Removing bugs and experimenting with different solvers.
+	
+21/12/2015 11:00-17:00 HOME and B434 -- 6h
+
+	Integrated the code into chris´ software. The software should work now but I cannot test it without the actual hardware.
+	The integration into the interface is very simple and one can choose whether to use the falcon for the control of the robot or 	for the arm.
+	Added some comments to the code to make it easier to understand.
+	
